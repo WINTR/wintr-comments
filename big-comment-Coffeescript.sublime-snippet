@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+#########################################################
+# ${1:Title:  BIG COMMENT
+# Author: matt@wintr.us @ WINTR}
+#########################################################
+$2
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>comment</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+  <decription>A big comment for Coffeescript</decription>
+</snippet>
